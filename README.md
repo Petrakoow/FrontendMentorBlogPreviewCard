@@ -1,8 +1,7 @@
 # Компонент "Предварительный просмотр блога" - Решение Frontend Mentor
 
 Это решение
-для [челленджа "Blog preview card" на Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPeF6q).
-Челленджи на Frontend Mentor помогают улучшить навыки вёрстки, создавая реалистичные проекты.
+для [челленджа "Blog preview card" на Frontend Mentor]()
 
 ## Содержание
 
@@ -40,4 +39,4 @@
 
 ## Автор
 
-- GitHub - [petrakowww](https://github.com/petrakowww)
+- GitHub - [petrakowww](https://github.com/Petrakoow)
